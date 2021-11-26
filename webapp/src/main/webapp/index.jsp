@@ -1,3 +1,2 @@
 <<<<<<< HEAD
-<hi> my new devops world </h1>
-<h2> my second connection</h2>
+<h1>first maven build</h1>
